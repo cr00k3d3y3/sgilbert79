@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sgilbert79
-- 👀 I’m interested in Data Analytics/Blockchain/Ethereum/Solidity/Web3/AI
-- 🌱 I’m currently learning Data Analytics
-- 💞️ I’m looking to collaborate on anything that will further my skills and give me the opportunity to learn 
-- 📫 How to reach me: smartcontract1979@outlook.com
+I am a student of cybersecurity. will finish a 2yr degree in May '24.
+I am interested in Blockchain ecosystem and plan to find my wealth there.
+I hope to network with others and find my first career opportunity.  
+- 📫 How to reach me: contractrook79@outlook.com
 
 <!---
 sgilbert79/sgilbert79 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
