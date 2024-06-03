@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @cr00ki3
-I am a student of cybersecurity. Constantly learning and evolving to become a better hacker.
+- 👋 Hi, I’m @cr00ked3y3
+I am a student of cybersecurity. learning and evolving to become a better hacker.
 Network with me:
 - 📫 How to reach me: sigsec1@proton.me
 
